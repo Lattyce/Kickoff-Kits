@@ -1,0 +1,168 @@
+
+.Property1MobileHover_1_Property1MobileHover {
+	width: 160px;
+	height: 238px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+	background: rgba(255,255,255,1.00);
+	border-radius: 4px;
+}
+.Property1MobileHover_1_Property1MobileHover .Frame21 {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	width: 160px;
+	height: 160px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 4px;
+}
+.Property1MobileHover_1_Property1MobileHover .Frame21 .MobileAddtoCartButton {
+	position: absolute;
+	right: 4px;
+	bottom: 4px;
+}
+.Property1MobileHover_1_Property1MobileHover .Frame21 .MobileAddtoCartButton .ShoppingCart {
+	position: relative;
+	flex: none;
+	margin-right: 10px;
+	width: 16px;
+	height: 16px;
+}
+.Property1MobileHover_1_Property1MobileHover .Frame21 .MobileAddtoCartButton .ShoppingCart .Vector {
+	width: 84.38436985015869%;
+	height: 84.38379168510437%;
+}
+.Property1MobileHover_1_Property1MobileHover .Frame21 .MobileLikeButton {
+	position: absolute;
+	left: 4px;
+	bottom: 4px;
+}
+.Property1MobileHover_1_Property1MobileHover .Frame21 .MobileLikeButton .Heart {
+	position: relative;
+	flex: none;
+	margin-right: 10px;
+	width: 16px;
+	height: 16px;
+}
+.Property1MobileHover_1_Property1MobileHover .Frame21 .MobileLikeButton .Heart .Vector_1 {
+	width: 87.5%;
+	height: 74.98231530189514%;
+}
+.Property1MobileHover_1_Property1MobileHover .Frame23 {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	width: 160px;
+	height: 78px;
+	display: flex;
+	flex-direction: column;
+	padding-top: 8px;
+	padding-right: 8px;
+	padding-bottom: 8px;
+	padding-left: 8px;
+	box-sizing: border-box;
+}
+.Property1MobileHover_1_Property1MobileHover .Frame23 .PriceContainer {
+	position: relative;
+	flex: none;
+	margin-bottom: 4px;
+	width: 77px;
+	height: 19px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Property1MobileHover_1_Property1MobileHover .Frame23 .PriceContainer ._ {
+	position: relative;
+	flex: none;
+	margin-right: 1px;
+	width: 13px;
+	height: 19px;
+	color: rgba(7,121,41,1.00);
+	font-family: Inter;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 19.363636016845703px;
+}
+.Property1MobileHover_1_Property1MobileHover .Frame23 .PriceContainer ._120000 {
+	position: relative;
+	flex: none;
+	margin-right: 1px;
+	width: 63px;
+	height: 19px;
+	color: rgba(7,121,41,1.00);
+	font-family: Inter;
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 19.363636016845703px;
+}
+.Property1MobileHover_1_Property1MobileHover .Frame23 .NameandCategoryContainer {
+	position: relative;
+	flex: none;
+	margin-bottom: 4px;
+	height: 17px;
+	align-self: stretch;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+}
+.Property1MobileHover_1_Property1MobileHover .Frame23 .NameandCategoryContainer .GERMANY24AWAYJERSEY {
+	position: relative;
+	flex: none;
+	margin-bottom: 4px;
+	height: 17px;
+	align-self: stretch;
+	color: rgba(0,0,0,1.00);
+	font-family: Inter;
+	font-size: 13px;
+	font-weight: 400;
+	line-height: 16.899999618530273px;
+}
+.Property1MobileHover_1_Property1MobileHover .Frame23 .NameandCategoryContainer .MensJersey {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-bottom: 4px;
+	height: 18px;
+	align-self: stretch;
+	color: rgba(0,0,0,0.60);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 18.19999885559082px;
+}
+.Property1MobileHover_1_Property1MobileHover .Frame23 .Frame25 {
+	position: relative;
+	flex: none;
+	margin-bottom: 4px;
+	width: 39px;
+	height: 18px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Property1MobileHover_1_Property1MobileHover .Frame23 .Frame25 ._45 {
+	position: relative;
+	flex: none;
+	margin-right: 2px;
+	width: 21px;
+	height: 18px;
+	color: rgba(0,0,0,0.60);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 18.19999885559082px;
+}
+.Property1MobileHover_1_Property1MobileHover .Frame23 .Frame25 .Star {
+	position: relative;
+	flex: none;
+	margin-right: 2px;
+	width: 16px;
+	height: 16px;
+}
+.Property1MobileHover_1_Property1MobileHover .Frame23 .Frame25 .Star .Vector_2 {
+	width: 87.44910955429077%;
+	height: 84.36146974563599%;
+}

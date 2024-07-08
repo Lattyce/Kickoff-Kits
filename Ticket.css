@@ -1,0 +1,12 @@
+
+.Ticket_Ticket {
+	width: 24px;
+	height: 24px;
+}
+.Ticket_Ticket .Vector {
+	position: absolute;
+	left: 1.5px;
+	top: 4.5px;
+	width: 87.5%;
+	height: 62.5%;
+}

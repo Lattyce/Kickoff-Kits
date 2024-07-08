@@ -1,0 +1,199 @@
+
+.Property1MobileView_1_Property1MobileView {
+	width: 328px;
+	height: 136px;
+	display: flex;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	box-sizing: border-box;
+	background: rgba(255,255,255,1.00);
+	border-radius: 4px;
+}
+.Property1MobileView_1_Property1MobileView .Frame21 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 120px;
+	height: 120px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 4px;
+}
+.Property1MobileView_1_Property1MobileView .Frame22 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	height: 120px;
+	align-self: stretch;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+	justify-content: space-between;
+}
+.Property1MobileView_1_Property1MobileView .Frame22 .Frame59 {
+	position: relative;
+	flex: none;
+	height: 77px;
+	align-self: stretch;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+	justify-content: center;
+}
+.Property1MobileView_1_Property1MobileView .Frame22 .Frame59 .GERMANY24AWAYJERSEY {
+	position: relative;
+	flex: none;
+	margin-bottom: 8px;
+	height: 18px;
+	align-self: stretch;
+	color: rgba(0,0,0,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 18.19999885559082px;
+}
+.Property1MobileView_1_Property1MobileView .Frame22 .Frame59 .PriceContainer {
+	position: relative;
+	flex: none;
+	margin-bottom: 8px;
+	width: 83px;
+	height: 19px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Property1MobileView_1_Property1MobileView .Frame22 .Frame59 .PriceContainer ._ {
+	position: relative;
+	flex: none;
+	margin-right: 2px;
+	width: 13px;
+	height: 19px;
+	color: rgba(7,121,41,1.00);
+	font-family: Inter;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 19.363636016845703px;
+}
+.Property1MobileView_1_Property1MobileView .Frame22 .Frame59 .PriceContainer ._500000 {
+	position: relative;
+	flex: none;
+	margin-right: 2px;
+	width: 68px;
+	height: 19px;
+	color: rgba(7,121,41,1.00);
+	font-family: Inter;
+	font-size: 16px;
+	font-weight: 600;
+	line-height: 19.363636016845703px;
+}
+.Property1MobileView_1_Property1MobileView .Frame22 .Frame59 .Frame49 {
+	position: relative;
+	flex: none;
+	margin-bottom: 8px;
+	height: 24px;
+	align-self: stretch;
+	display: flex;
+	box-sizing: border-box;
+	justify-content: space-between;
+	align-items: center;
+}
+.Property1MobileView_1_Property1MobileView .Frame22 .Frame59 .Frame49 .SizeInfoContainer {
+	position: relative;
+	flex: none;
+	width: 13px;
+	height: 18px;
+	display: flex;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	border-radius: 4px;
+}
+.Property1MobileView_1_Property1MobileView .Frame22 .Frame59 .Frame49 .SizeInfoContainer .M {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 13px;
+	height: 18px;
+	color: rgba(0,0,0,0.80);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 18.19999885559082px;
+}
+.Property1MobileView_1_Property1MobileView .Frame22 .Frame59 .Frame49 .QuantitySelector {
+	position: relative;
+	flex: none;
+	width: 72px;
+	height: 24px;
+	display: flex;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	border-radius: 4px;
+}
+.Property1MobileView_1_Property1MobileView .Frame22 .Frame59 .Frame49 .QuantitySelector .MinusCircle {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+}
+.Property1MobileView_1_Property1MobileView .Frame22 .Frame59 .Frame49 .QuantitySelector .MinusCircle .Vector {
+}
+.Property1MobileView_1_Property1MobileView .Frame22 .Frame59 .Frame49 .QuantitySelector .Frame39901 {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+	width: 24px;
+	height: 24px;
+}
+.Property1MobileView_1_Property1MobileView .Frame22 .Frame59 .Frame49 .QuantitySelector .Frame39901 ._1 {
+	position: absolute;
+	left: 50.48828125%;
+	top: 50.313313802083336%;
+	transform: translate(-50%, -50%);
+	width: 6px;
+	height: 16px;
+	color: rgba(0,0,0,0.80);
+	font-family: Inter;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 15.59999942779541px;
+}
+.Property1MobileView_1_Property1MobileView .Frame22 .Frame59 .Frame49 .QuantitySelector .PlusCircle {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+}
+.Property1MobileView_1_Property1MobileView .Frame22 .Frame59 .Frame49 .QuantitySelector .PlusCircle .Vector_1 {
+}
+.Property1MobileView_1_Property1MobileView .Frame22 .Frame39900 {
+	position: relative;
+	flex: none;
+	width: 66px;
+	height: 16px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Property1MobileView_1_Property1MobileView .Frame22 .Frame39900 .Trash {
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	width: 16px;
+	height: 16px;
+}
+.Property1MobileView_1_Property1MobileView .Frame22 .Frame39900 .Trash .Vector_2 {
+	width: 75%;
+	height: 81.25%;
+}
+.Property1MobileView_1_Property1MobileView .Frame22 .Frame39900 .Remove {
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	width: 46px;
+	height: 16px;
+	color: rgba(0,0,0,0.40);
+	font-family: Inter;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 15.59999942779541px;
+}

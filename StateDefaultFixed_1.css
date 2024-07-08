@@ -1,0 +1,31 @@
+
+.StateDefaultFixed_1_StateDefaultFixed {
+	width: 155px;
+	height: 48px;
+	display: flex;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+}
+.StateDefaultFixed_1_StateDefaultFixed .ButtonMain {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+}
+.StateDefaultFixed_1_StateDefaultFixed .ButtonMain .MagnifyingGlass {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+}
+.StateDefaultFixed_1_StateDefaultFixed .ButtonMain .MagnifyingGlass .Vector {
+}
+.StateDefaultFixed_1_StateDefaultFixed .ButtonMain .Button {
+	font-weight: 400;
+}
+.StateDefaultFixed_1_StateDefaultFixed .ButtonMain .CaretDown {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+}
+.StateDefaultFixed_1_StateDefaultFixed .ButtonMain .CaretDown .Vector_1 {
+}

@@ -1,0 +1,22 @@
+
+.SOrtAscend_SOrtAscend {
+	width: 24px;
+	height: 24px;
+}
+.SOrtAscend_SOrtAscend .elements {
+	position: absolute;
+	left: 50%;
+	top: 4.5px;
+	transform: translate(-50%, 0);
+	width: 4px;
+	height: 15px;
+	border-radius: 0.5px;
+}
+.SOrtAscend_SOrtAscend .elements .Vector6931 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	border-radius: 0.5px;
+}

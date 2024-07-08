@@ -1,111 +1,111 @@
-
-        const tryRequire = (path) => {
-        	try {
-        	const image = require(`${path}`);
-        	return image
-        	} catch (err) {
-        	return false
-        	}
-        };
-
-        export default {
-        
-	questionMark: require('./questionMark.png'),
-	List_Vector: tryRequire('./List_Vector.png') || require('./questionMark.png'),
-	MagnifyingGlass_Vector: tryRequire('./MagnifyingGlass_Vector.png') || require('./questionMark.png'),
-	User_Vector: tryRequire('./User_Vector.png') || require('./questionMark.png'),
-	ShoppingCart_Vector: tryRequire('./ShoppingCart_Vector.png') || require('./questionMark.png'),
-	Property1Web_KickoffKits: tryRequire('./Property1Web_KickoffKits.png') || require('./questionMark.png'),
-	FunnelSimple_Vector: tryRequire('./FunnelSimple_Vector.png') || require('./questionMark.png'),
-	XCircle_Vector: tryRequire('./XCircle_Vector.png') || require('./questionMark.png'),
-	ShoppingCart_1_Vector: tryRequire('./ShoppingCart_1_Vector.png') || require('./questionMark.png'),
-	Heart_Vector: tryRequire('./Heart_Vector.png') || require('./questionMark.png'),
-	Star_Vector: tryRequire('./Star_Vector.png') || require('./questionMark.png'),
-	Property1Default_2_Frame21: tryRequire('./Property1Default_2_Frame21.png') || require('./questionMark.png'),
-	CaretDoubleLeft_Vector: tryRequire('./CaretDoubleLeft_Vector.png') || require('./questionMark.png'),
-	CaretLeft_Vector: tryRequire('./CaretLeft_Vector.png') || require('./questionMark.png'),
-	CaretRight_Vector: tryRequire('./CaretRight_Vector.png') || require('./questionMark.png'),
-	CaretDoubleRight_Vector: tryRequire('./CaretDoubleRight_Vector.png') || require('./questionMark.png'),
-	EnvelopeSimple_Vector: tryRequire('./EnvelopeSimple_Vector.png') || require('./questionMark.png'),
-	ArrowRight_Vector: tryRequire('./ArrowRight_Vector.png') || require('./questionMark.png'),
-	SnapchatLogo_Vector: tryRequire('./SnapchatLogo_Vector.png') || require('./questionMark.png'),
-	InstagramLogo_Vector: tryRequire('./InstagramLogo_Vector.png') || require('./questionMark.png'),
-	XLogo_Vector: tryRequire('./XLogo_Vector.png') || require('./questionMark.png'),
-	FacebookLogo_Vector: tryRequire('./FacebookLogo_Vector.png') || require('./questionMark.png'),
-	TelegramLogo_Vector: tryRequire('./TelegramLogo_Vector.png') || require('./questionMark.png'),
-	X_Vector: tryRequire('./X_Vector.png') || require('./questionMark.png'),
-	CaretDown_Vector: tryRequire('./CaretDown_Vector.png') || require('./questionMark.png'),
-	SideBarCOntainer_KickoffKits: tryRequire('./SideBarCOntainer_KickoffKits.png') || require('./questionMark.png'),
-	Trash_Vector: tryRequire('./Trash_Vector.png') || require('./questionMark.png'),
-	Property1Mobile_KickoffKits: tryRequire('./Property1Mobile_KickoffKits.png') || require('./questionMark.png'),
-	CaretDown_1_Vector: tryRequire('./CaretDown_1_Vector.png') || require('./questionMark.png'),
-	SortDesc_Vector6932: tryRequire('./SortDesc_Vector6932.png') || require('./questionMark.png'),
-	SOrtAscend_Vector6931: tryRequire('./SOrtAscend_Vector6931.png') || require('./questionMark.png'),
-	Ticket_Vector: tryRequire('./Ticket_Vector.png') || require('./questionMark.png'),
-	PaymentConfirmationModalMobileView_Vector: tryRequire('./PaymentConfirmationModalMobileView_Vector.png') || require('./questionMark.png'),
-	PaymentConfirmationModalDesktop_Vector: tryRequire('./PaymentConfirmationModalDesktop_Vector.png') || require('./questionMark.png'),
-	Property1Mobile_1_KickoffKits: tryRequire('./Property1Mobile_1_KickoffKits.png') || require('./questionMark.png'),
-	MinusCircle_Vector: tryRequire('./MinusCircle_Vector.png') || require('./questionMark.png'),
-	PlusCircle_Vector: tryRequire('./PlusCircle_Vector.png') || require('./questionMark.png'),
-	Heart_1_Vector: tryRequire('./Heart_1_Vector.png') || require('./questionMark.png'),
-	Property1Web_1_KickoffKits: tryRequire('./Property1Web_1_KickoffKits.png') || require('./questionMark.png'),
-	BellSimple_Vector: tryRequire('./BellSimple_Vector.png') || require('./questionMark.png'),
-	nouncloset36900131_Vector: tryRequire('./nouncloset36900131_Vector.png') || require('./questionMark.png'),
-	Heart_2_Vector: tryRequire('./Heart_2_Vector.png') || require('./questionMark.png'),
-	OrderIconTrackoutlined_Vector: tryRequire('./OrderIconTrackoutlined_Vector.png') || require('./questionMark.png'),
-	User_1_Vector: tryRequire('./User_1_Vector.png') || require('./questionMark.png'),
-	nouncloset36947041_Vector: tryRequire('./nouncloset36947041_Vector.png') || require('./questionMark.png'),
-	OrderIconTrackFilled_Subtract: tryRequire('./OrderIconTrackFilled_Subtract.png') || require('./questionMark.png'),
-	User_2_Vector: tryRequire('./User_2_Vector.png') || require('./questionMark.png'),
-	PaymentConfirmationModalMobileView_Vector_1: tryRequire('./PaymentConfirmationModalMobileView_Vector_1.png') || require('./questionMark.png'),
-	PaymentConfirmationModalDesktop_Vector_1: tryRequire('./PaymentConfirmationModalDesktop_Vector_1.png') || require('./questionMark.png'),
-	OrderIconTrackoutlined_Vector_1: tryRequire('./OrderIconTrackoutlined_Vector_1.png') || require('./questionMark.png'),
-	PaymentConfirmationModalMobileView_Vector_2: tryRequire('./PaymentConfirmationModalMobileView_Vector_2.png') || require('./questionMark.png'),
-	PaymentConfirmationModalDesktop_Vector_2: tryRequire('./PaymentConfirmationModalDesktop_Vector_2.png') || require('./questionMark.png'),
-	OrderIconTrackoutlined_Vector_2: tryRequire('./OrderIconTrackoutlined_Vector_2.png') || require('./questionMark.png'),
-	PaymentConfirmationModalMobileView_Vector_3: tryRequire('./PaymentConfirmationModalMobileView_Vector_3.png') || require('./questionMark.png'),
-	PaymentConfirmationModalDesktop_Vector_3: tryRequire('./PaymentConfirmationModalDesktop_Vector_3.png') || require('./questionMark.png'),
-	OrderIconTrackoutlined_Vector_3: tryRequire('./OrderIconTrackoutlined_Vector_3.png') || require('./questionMark.png'),
-	PaymentConfirmationModalMobileView_Vector_4: tryRequire('./PaymentConfirmationModalMobileView_Vector_4.png') || require('./questionMark.png'),
-	PaymentConfirmationModalDesktop_Vector_4: tryRequire('./PaymentConfirmationModalDesktop_Vector_4.png') || require('./questionMark.png'),
-	OrderIconTrackoutlined_Vector_4: tryRequire('./OrderIconTrackoutlined_Vector_4.png') || require('./questionMark.png'),
-	PaymentConfirmationModalMobileView_Vector_5: tryRequire('./PaymentConfirmationModalMobileView_Vector_5.png') || require('./questionMark.png'),
-	PaymentConfirmationModalDesktop_Vector_5: tryRequire('./PaymentConfirmationModalDesktop_Vector_5.png') || require('./questionMark.png'),
-	OrderIconTrackoutlined_Vector_5: tryRequire('./OrderIconTrackoutlined_Vector_5.png') || require('./questionMark.png'),
-	PaymentConfirmationModalMobileView_Vector_6: tryRequire('./PaymentConfirmationModalMobileView_Vector_6.png') || require('./questionMark.png'),
-	PaymentConfirmationModalDesktop_Vector_6: tryRequire('./PaymentConfirmationModalDesktop_Vector_6.png') || require('./questionMark.png'),
-	PaymentConfirmationModalMobileView_Vector_7: tryRequire('./PaymentConfirmationModalMobileView_Vector_7.png') || require('./questionMark.png'),
-	PaymentConfirmationModalDesktop_Vector_7: tryRequire('./PaymentConfirmationModalDesktop_Vector_7.png') || require('./questionMark.png'),
-	PaymentConfirmationModalMobileView_Vector_8: tryRequire('./PaymentConfirmationModalMobileView_Vector_8.png') || require('./questionMark.png'),
-	PaymentConfirmationModalDesktop_Vector_8: tryRequire('./PaymentConfirmationModalDesktop_Vector_8.png') || require('./questionMark.png'),
-	PaymentConfirmationModalMobileView_Vector_9: tryRequire('./PaymentConfirmationModalMobileView_Vector_9.png') || require('./questionMark.png'),
-	PaymentConfirmationModalDesktop_Vector_9: tryRequire('./PaymentConfirmationModalDesktop_Vector_9.png') || require('./questionMark.png'),
-	PaymentConfirmationModalMobileView_Vector_10: tryRequire('./PaymentConfirmationModalMobileView_Vector_10.png') || require('./questionMark.png'),
-	PaymentConfirmationModalDesktop_Vector_10: tryRequire('./PaymentConfirmationModalDesktop_Vector_10.png') || require('./questionMark.png'),
-	PaymentConfirmationModalMobileView_Vector_11: tryRequire('./PaymentConfirmationModalMobileView_Vector_11.png') || require('./questionMark.png'),
-	PaymentConfirmationModalDesktop_Vector_11: tryRequire('./PaymentConfirmationModalDesktop_Vector_11.png') || require('./questionMark.png'),
-	PaymentConfirmationModalMobileView_Vector_12: tryRequire('./PaymentConfirmationModalMobileView_Vector_12.png') || require('./questionMark.png'),
-	PaymentConfirmationModalDesktop_Vector_12: tryRequire('./PaymentConfirmationModalDesktop_Vector_12.png') || require('./questionMark.png'),
-	PaymentConfirmationModalMobileView_Vector_13: tryRequire('./PaymentConfirmationModalMobileView_Vector_13.png') || require('./questionMark.png'),
-	PaymentConfirmationModalDesktop_Vector_13: tryRequire('./PaymentConfirmationModalDesktop_Vector_13.png') || require('./questionMark.png'),
-	PaymentConfirmationModalMobileView_Vector_14: tryRequire('./PaymentConfirmationModalMobileView_Vector_14.png') || require('./questionMark.png'),
-	PaymentConfirmationModalDesktop_Vector_14: tryRequire('./PaymentConfirmationModalDesktop_Vector_14.png') || require('./questionMark.png'),
-	PaymentConfirmationModalMobileView_Vector_15: tryRequire('./PaymentConfirmationModalMobileView_Vector_15.png') || require('./questionMark.png'),
-	PaymentConfirmationModalDesktop_Vector_15: tryRequire('./PaymentConfirmationModalDesktop_Vector_15.png') || require('./questionMark.png'),
-	PaymentConfirmationModalMobileView_Vector_16: tryRequire('./PaymentConfirmationModalMobileView_Vector_16.png') || require('./questionMark.png'),
-	PaymentConfirmationModalDesktop_Vector_16: tryRequire('./PaymentConfirmationModalDesktop_Vector_16.png') || require('./questionMark.png'),
-	PaymentConfirmationModalMobileView_Vector_17: tryRequire('./PaymentConfirmationModalMobileView_Vector_17.png') || require('./questionMark.png'),
-	PaymentConfirmationModalDesktop_Vector_17: tryRequire('./PaymentConfirmationModalDesktop_Vector_17.png') || require('./questionMark.png'),
-	PaymentConfirmationModalMobileView_Vector_18: tryRequire('./PaymentConfirmationModalMobileView_Vector_18.png') || require('./questionMark.png'),
-	PaymentConfirmationModalDesktop_Vector_18: tryRequire('./PaymentConfirmationModalDesktop_Vector_18.png') || require('./questionMark.png'),
-	PaymentConfirmationModalMobileView_Vector_19: tryRequire('./PaymentConfirmationModalMobileView_Vector_19.png') || require('./questionMark.png'),
-	PaymentConfirmationModalDesktop_Vector_19: tryRequire('./PaymentConfirmationModalDesktop_Vector_19.png') || require('./questionMark.png'),
-	PaymentConfirmationModalMobileView_Vector_20: tryRequire('./PaymentConfirmationModalMobileView_Vector_20.png') || require('./questionMark.png'),
-	PaymentConfirmationModalDesktop_Vector_20: tryRequire('./PaymentConfirmationModalDesktop_Vector_20.png') || require('./questionMark.png'),
-	PaymentConfirmationModalMobileView_Vector_21: tryRequire('./PaymentConfirmationModalMobileView_Vector_21.png') || require('./questionMark.png'),
-	PaymentConfirmationModalDesktop_Vector_21: tryRequire('./PaymentConfirmationModalDesktop_Vector_21.png') || require('./questionMark.png'),
-	PaymentConfirmationModalMobileView_Vector_22: tryRequire('./PaymentConfirmationModalMobileView_Vector_22.png') || require('./questionMark.png'),
-	PaymentConfirmationModalDesktop_Vector_22: tryRequire('./PaymentConfirmationModalDesktop_Vector_22.png') || require('./questionMark.png'),
-	PaymentConfirmationModalMobileView_Vector_23: tryRequire('./PaymentConfirmationModalMobileView_Vector_23.png') || require('./questionMark.png'),
-	PaymentConfirmationModalDesktop_Vector_23: tryRequire('./PaymentConfirmationModalDesktop_Vector_23.png') || require('./questionMark.png'),
+import React from 'react'
+import {Link} from 'react-router-dom'
+export default function HomePage () {
+    return (
+	<div>
+		<Link to='/A41'><div>A41</div></Link>
+		<Link to='/Pluginfilecover1'><div>Pluginfilecover1</div></Link>
+		<Link to='/List'><div>List</div></Link>
+		<Link to='/MagnifyingGlass'><div>MagnifyingGlass</div></Link>
+		<Link to='/User'><div>User</div></Link>
+		<Link to='/ShoppingCart'><div>ShoppingCart</div></Link>
+		<Link to='/Property1Web'><div>Property1Web</div></Link>
+		<Link to='/Property1Default'><div>Property1Default</div></Link>
+		<Link to='/FunnelSimple'><div>FunnelSimple</div></Link>
+		<Link to='/XCircle'><div>XCircle</div></Link>
+		<Link to='/ShoppingCart_1'><div>ShoppingCart_1</div></Link>
+		<Link to='/Property1Added'><div>Property1Added</div></Link>
+		<Link to='/Heart'><div>Heart</div></Link>
+		<Link to='/Property1Default_1'><div>Property1Default_1</div></Link>
+		<Link to='/Star'><div>Star</div></Link>
+		<Link to='/Property1Default_2'><div>Property1Default_2</div></Link>
+		<Link to='/Property1Default_3'><div>Property1Default_3</div></Link>
+		<Link to='/CaretDoubleLeft'><div>CaretDoubleLeft</div></Link>
+		<Link to='/CaretLeft'><div>CaretLeft</div></Link>
+		<Link to='/CaretRight'><div>CaretRight</div></Link>
+		<Link to='/CaretDoubleRight'><div>CaretDoubleRight</div></Link>
+		<Link to='/EnvelopeSimple'><div>EnvelopeSimple</div></Link>
+		<Link to='/ArrowRight'><div>ArrowRight</div></Link>
+		<Link to='/SnapchatLogo'><div>SnapchatLogo</div></Link>
+		<Link to='/InstagramLogo'><div>InstagramLogo</div></Link>
+		<Link to='/XLogo'><div>XLogo</div></Link>
+		<Link to='/FacebookLogo'><div>FacebookLogo</div></Link>
+		<Link to='/TelegramLogo'><div>TelegramLogo</div></Link>
+		<Link to='/X'><div>X</div></Link>
+		<Link to='/CaretDown'><div>CaretDown</div></Link>
+		<Link to='/SideBarCOntainer'><div>SideBarCOntainer</div></Link>
+		<Link to='/Trash'><div>Trash</div></Link>
+		<Link to='/Property1Default_4'><div>Property1Default_4</div></Link>
+		<Link to='/Property1MobileView'><div>Property1MobileView</div></Link>
+		<Link to='/Property1Mobile'><div>Property1Mobile</div></Link>
+		<Link to='/Property1Added_1'><div>Property1Added_1</div></Link>
+		<Link to='/Property1Default_5'><div>Property1Default_5</div></Link>
+		<Link to='/Property1MobileDefault'><div>Property1MobileDefault</div></Link>
+		<Link to='/Property1Default_6'><div>Property1Default_6</div></Link>
+		<Link to='/CaretDown_1'><div>CaretDown_1</div></Link>
+		<Link to='/ButtonMain'><div>ButtonMain</div></Link>
+		<Link to='/StateDefaultFixed'><div>StateDefaultFixed</div></Link>
+		<Link to='/StateHover'><div>StateHover</div></Link>
+		<Link to='/StateClick'><div>StateClick</div></Link>
+		<Link to='/Property1Hover'><div>Property1Hover</div></Link>
+		<Link to='/Property1MobileHover'><div>Property1MobileHover</div></Link>
+		<Link to='/Property1Hover_1'><div>Property1Hover_1</div></Link>
+		<Link to='/Property1Hover_2'><div>Property1Hover_2</div></Link>
+		<Link to='/Property1Like'><div>Property1Like</div></Link>
+		<Link to='/Property1Hover_3'><div>Property1Hover_3</div></Link>
+		<Link to='/Property1Hover_4'><div>Property1Hover_4</div></Link>
+		<Link to='/Property1Like_1'><div>Property1Like_1</div></Link>
+		<Link to='/Property1Hover_5'><div>Property1Hover_5</div></Link>
+		<Link to='/Property1Pressed'><div>Property1Pressed</div></Link>
+		<Link to='/SortDesc'><div>SortDesc</div></Link>
+		<Link to='/SOrtAscend'><div>SOrtAscend</div></Link>
+		<Link to='/Ticket'><div>Ticket</div></Link>
+		<Link to='/PaymentConfirmationModalMobileView'><div>PaymentConfirmationModalMobileView</div></Link>
+		<Link to='/PaymentConfirmationModalDesktop'><div>PaymentConfirmationModalDesktop</div></Link>
+		<Link to='/Property1Mobile_1'><div>Property1Mobile_1</div></Link>
+		<Link to='/Property1Default_7'><div>Property1Default_7</div></Link>
+		<Link to='/Property1Added_2'><div>Property1Added_2</div></Link>
+		<Link to='/Property1Default_8'><div>Property1Default_8</div></Link>
+		<Link to='/Property1MobileDefault_1'><div>Property1MobileDefault_1</div></Link>
+		<Link to='/Property1Default_9'><div>Property1Default_9</div></Link>
+		<Link to='/MinusCircle'><div>MinusCircle</div></Link>
+		<Link to='/PlusCircle'><div>PlusCircle</div></Link>
+		<Link to='/Property1MobileView_1'><div>Property1MobileView_1</div></Link>
+		<Link to='/StateDefaultFixed_1'><div>StateDefaultFixed_1</div></Link>
+		<Link to='/StateHover_1'><div>StateHover_1</div></Link>
+		<Link to='/StateClick_1'><div>StateClick_1</div></Link>
+		<Link to='/Property1Default_10'><div>Property1Default_10</div></Link>
+		<Link to='/Property1Default_11'><div>Property1Default_11</div></Link>
+		<Link to='/Property1Default_12'><div>Property1Default_12</div></Link>
+		<Link to='/Property1Hover_6'><div>Property1Hover_6</div></Link>
+		<Link to='/Property1MobileHover_1'><div>Property1MobileHover_1</div></Link>
+		<Link to='/Property1Hover_7'><div>Property1Hover_7</div></Link>
+		<Link to='/Property1Added_3'><div>Property1Added_3</div></Link>
+		<Link to='/Property1Hover_8'><div>Property1Hover_8</div></Link>
+		<Link to='/Property1Like_2'><div>Property1Like_2</div></Link>
+		<Link to='/Property1Hover_9'><div>Property1Hover_9</div></Link>
+		<Link to='/Property1Hover_10'><div>Property1Hover_10</div></Link>
+		<Link to='/Heart_1'><div>Heart_1</div></Link>
+		<Link to='/Property1Like_3'><div>Property1Like_3</div></Link>
+		<Link to='/Property1Hover_11'><div>Property1Hover_11</div></Link>
+		<Link to='/Property1Pressed_1'><div>Property1Pressed_1</div></Link>
+		<Link to='/Property1Default_13'><div>Property1Default_13</div></Link>
+		<Link to='/Property1Web_1'><div>Property1Web_1</div></Link>
+		<Link to='/BellSimple'><div>BellSimple</div></Link>
+		<Link to='/TopAppBar'><div>TopAppBar</div></Link>
+		<Link to='/nouncloset36900131'><div>nouncloset36900131</div></Link>
+		<Link to='/Heart_2'><div>Heart_2</div></Link>
+		<Link to='/OrderIconTrackoutlined'><div>OrderIconTrackoutlined</div></Link>
+		<Link to='/User_1'><div>User_1</div></Link>
+		<Link to='/Property1StoreActive'><div>Property1StoreActive</div></Link>
+		<Link to='/DeviceDeviceframecomponentsstatusbar'><div>DeviceDeviceframecomponentsstatusbar</div></Link>
+		<Link to='/DeviceDeviceframecomponentsnavigation'><div>DeviceDeviceframecomponentsnavigation</div></Link>
+		<Link to='/nouncloset36947041'><div>nouncloset36947041</div></Link>
+		<Link to='/OrderIconTrackFilled'><div>OrderIconTrackFilled</div></Link>
+		<Link to='/Property1LikedActive'><div>Property1LikedActive</div></Link>
+		<Link to='/Property1OrdersActive'><div>Property1OrdersActive</div></Link>
+		<Link to='/User_2'><div>User_2</div></Link>
+		<Link to='/Property1AccountActive'><div>Property1AccountActive</div></Link>
+	</div>
+	)
 }

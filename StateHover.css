@@ -1,0 +1,32 @@
+
+.StateHover_StateHover {
+	width: 155px;
+	height: 48px;
+	display: flex;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+}
+.StateHover_StateHover .ButtonMain {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+	background: rgba(0,0,0,0.80);
+}
+.StateHover_StateHover .ButtonMain .MagnifyingGlass {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+}
+.StateHover_StateHover .ButtonMain .MagnifyingGlass .Vector {
+}
+.StateHover_StateHover .ButtonMain .Button {
+	font-weight: 400;
+}
+.StateHover_StateHover .ButtonMain .CaretDown {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+}
+.StateHover_StateHover .ButtonMain .CaretDown .Vector_1 {
+}

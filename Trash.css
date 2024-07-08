@@ -1,0 +1,12 @@
+
+.Trash_Trash {
+	width: 24px;
+	height: 24px;
+}
+.Trash_Trash .Vector {
+	position: absolute;
+	left: 3px;
+	top: 1.5px;
+	width: 75%;
+	height: 81.25%;
+}
