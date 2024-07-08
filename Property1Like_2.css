@@ -1,0 +1,21 @@
+
+.Property1Like_2_Property1Like {
+	width: 44px;
+	height: 44px;
+	display: flex;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	box-sizing: border-box;
+	align-items: center;
+	background: rgba(7,121,41,1.00);
+	border-radius: 4px;
+}
+.Property1Like_2_Property1Like .Heart {
+	position: relative;
+	flex: none;
+	margin-right: 10px;
+}
+.Property1Like_2_Property1Like .Heart .Vector {
+}

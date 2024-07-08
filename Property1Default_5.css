@@ -1,0 +1,25 @@
+
+.Property1Default_5_Property1Default {
+	width: 32px;
+	height: 32px;
+	display: flex;
+	padding-top: 8px;
+	padding-right: 8px;
+	padding-bottom: 8px;
+	padding-left: 8px;
+	box-sizing: border-box;
+	align-items: center;
+	background: rgba(255,255,255,1.00);
+	border-radius: 4px;
+}
+.Property1Default_5_Property1Default .Heart {
+	position: relative;
+	flex: none;
+	margin-right: 10px;
+	width: 16px;
+	height: 16px;
+}
+.Property1Default_5_Property1Default .Heart .Vector {
+	width: 87.5%;
+	height: 74.98231530189514%;
+}

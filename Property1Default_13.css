@@ -1,0 +1,263 @@
+
+.Property1Default_13_Property1Default {
+	width: 630px;
+	height: 190px;
+	display: flex;
+	box-sizing: border-box;
+	background: rgba(255,255,255,1.00);
+	border-radius: 4px;
+}
+.Property1Default_13_Property1Default .Frame21 {
+	position: relative;
+	flex: none;
+	margin-right: 24px;
+	width: 190px;
+	height: 190px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 4px;
+}
+.Property1Default_13_Property1Default .Frame22 {
+	position: relative;
+	flex: none;
+	margin-right: 24px;
+	height: 190px;
+	align-self: stretch;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+	justify-content: space-between;
+}
+.Property1Default_13_Property1Default .Frame22 .Frame59 {
+	position: relative;
+	flex: none;
+	height: 104px;
+	align-self: stretch;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+}
+.Property1Default_13_Property1Default .Frame22 .Frame59 .Frame48 {
+	position: relative;
+	flex: none;
+	margin-bottom: 24px;
+	height: 46px;
+	align-self: stretch;
+	display: flex;
+	box-sizing: border-box;
+	justify-content: space-between;
+}
+.Property1Default_13_Property1Default .Frame22 .Frame59 .Frame48 .NameandCategoryContainer {
+	position: relative;
+	flex: none;
+	width: 311px;
+	height: 46px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+}
+.Property1Default_13_Property1Default .Frame22 .Frame59 .Frame48 .NameandCategoryContainer .GERMANY24AWAYJERSEY {
+	position: relative;
+	flex: none;
+	margin-bottom: 4px;
+	height: 21px;
+	align-self: stretch;
+	color: rgba(0,0,0,1.00);
+	font-family: Inter;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 20.799999237060547px;
+}
+.Property1Default_13_Property1Default .Frame22 .Frame59 .Frame48 .NameandCategoryContainer .MensJersey {
+	position: relative;
+	flex: none;
+	margin-bottom: 4px;
+	height: 21px;
+	align-self: stretch;
+	color: rgba(0,0,0,0.60);
+	font-family: Inter;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 20.799999237060547px;
+}
+.Property1Default_13_Property1Default .Frame22 .Frame59 .Frame48 .PriceContainer {
+	position: relative;
+	flex: none;
+	width: 103px;
+	height: 24px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Property1Default_13_Property1Default .Frame22 .Frame59 .Frame48 .PriceContainer ._ {
+	position: relative;
+	flex: none;
+	margin-right: 2px;
+	width: 16px;
+	height: 24px;
+	color: rgba(7,121,41,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 24.204544067382812px;
+}
+.Property1Default_13_Property1Default .Frame22 .Frame59 .Frame48 .PriceContainer ._500000 {
+	position: relative;
+	flex: none;
+	margin-right: 2px;
+	width: 85px;
+	height: 24px;
+	color: rgba(7,121,41,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 600;
+	line-height: 24.204544067382812px;
+}
+.Property1Default_13_Property1Default .Frame22 .Frame59 .Frame52 {
+	position: relative;
+	flex: none;
+	margin-bottom: 24px;
+	height: 34px;
+	align-self: stretch;
+	display: flex;
+	box-sizing: border-box;
+	justify-content: space-between;
+	align-items: center;
+}
+.Property1Default_13_Property1Default .Frame22 .Frame59 .Frame52 .Frame49 {
+	position: relative;
+	flex: none;
+	width: 241px;
+	height: 34px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Property1Default_13_Property1Default .Frame22 .Frame59 .Frame52 .Frame49 .SizeInfoContainer {
+	position: relative;
+	flex: none;
+	margin-right: 16px;
+	width: 101px;
+	height: 34px;
+	display: flex;
+	padding-top: 8px;
+	padding-right: 12px;
+	padding-bottom: 8px;
+	padding-left: 12px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	border-radius: 4px;
+	border: 1px solid rgba(0,0,0,1);
+	box-sizing: border-box;
+}
+.Property1Default_13_Property1Default .Frame22 .Frame59 .Frame52 .Frame49 .SizeInfoContainer .Size {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 32px;
+	height: 18px;
+	color: rgba(0,0,0,0.40);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 18.19999885559082px;
+}
+.Property1Default_13_Property1Default .Frame22 .Frame59 .Frame52 .Frame49 .SizeInfoContainer .M {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 13px;
+	height: 18px;
+	color: rgba(0,0,0,0.80);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 18.19999885559082px;
+}
+.Property1Default_13_Property1Default .Frame22 .Frame59 .Frame52 .Frame49 .SizeInfoContainer .CaretDown {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 16px;
+	height: 16px;
+}
+.Property1Default_13_Property1Default .Frame22 .Frame59 .Frame52 .Frame49 .SizeInfoContainer .CaretDown .Vector {
+	width: 68.75348091125488%;
+	height: 37.50419318675995%;
+}
+.Property1Default_13_Property1Default .Frame22 .Frame59 .Frame52 .Frame49 .QuantitySelector {
+	position: relative;
+	flex: none;
+	margin-right: 16px;
+	width: 124px;
+	height: 34px;
+	display: flex;
+	padding-top: 8px;
+	padding-right: 12px;
+	padding-bottom: 8px;
+	padding-left: 12px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	border-radius: 4px;
+	border: 1px solid rgba(0,0,0,1);
+	box-sizing: border-box;
+}
+.Property1Default_13_Property1Default .Frame22 .Frame59 .Frame52 .Frame49 .QuantitySelector .Quantity {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 61px;
+	height: 18px;
+	color: rgba(0,0,0,0.40);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 18.19999885559082px;
+}
+.Property1Default_13_Property1Default .Frame22 .Frame59 .Frame52 .Frame49 .QuantitySelector ._1 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 7px;
+	height: 18px;
+	color: rgba(0,0,0,0.80);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 18.19999885559082px;
+}
+.Property1Default_13_Property1Default .Frame22 .Frame59 .Frame52 .Frame49 .QuantitySelector .CaretDown_1 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 16px;
+	height: 16px;
+}
+.Property1Default_13_Property1Default .Frame22 .Frame59 .Frame52 .Frame49 .QuantitySelector .CaretDown_1 .Vector_1 {
+	width: 68.75348091125488%;
+	height: 37.50419318675995%;
+}
+.Property1Default_13_Property1Default .Frame22 .Frame59 .Frame52 .Heart {
+	position: relative;
+	flex: none;
+}
+.Property1Default_13_Property1Default .Frame22 .Frame59 .Frame52 .Heart .Vector_2 {
+}
+.Property1Default_13_Property1Default .Frame22 .Frame51 {
+	position: relative;
+	flex: none;
+	height: 24px;
+	align-self: stretch;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Property1Default_13_Property1Default .Frame22 .Frame51 .Trash {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+}
+.Property1Default_13_Property1Default .Frame22 .Frame51 .Trash .Vector_3 {
+}
